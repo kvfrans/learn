@@ -1,5 +1,5 @@
 # Learning ML in High School
-A guide to learning machine learning in high school, by high schoolers.
+A guide to learning machine learning in high school, by high schoolers who know some stuff about machine learning.
 
 
 

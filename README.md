@@ -30,4 +30,4 @@ Notes and thoughts on learning machine learning. This guide is dedicated to the 
 - When working on projects don't be afraid to steal parts of code from other git repos / stackoverflow. Our philosophy: do whatever it takes to make your project work. If you work on interesting enough things, the experience will come naturally.
 
 ### Who are we?
-The authors are [Kevin Frans](@kvfrans) and [Gautam Mittal](@gmittal).
+The authors are [Kevin Frans](@kvfrans) and [Gautam Mittal](http://gautam.cc).

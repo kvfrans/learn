@@ -1,7 +1,7 @@
 # Learning ML with no background
 Notes and thoughts on learning machine learning. This guide is dedicated to the one and only [Adnaan Sachidanandan](https://github.com/adnaans).
 
-###Kevins path
+### Kevins path
 - The [classic Andrew Ng course](https://www.coursera.org/learn/machine-learning) on coursera is a good place to start. You don't have to finish the whole thing but it's a good introduction
 
 - Andrej Kaparthy's [hacker guide to neural nets](http://karpathy.github.io/neuralnets/) is very helpful for anyone with programming background. Go through and actually implement it yourself without copy-pasting, and get a neural net to classify something easy (i did RBG colors -> "blue","green")
@@ -10,10 +10,10 @@ Notes and thoughts on learning machine learning. This guide is dedicated to the 
 
 - Congrats, at this point you'll have a good enough background to get started on whatever project you want. Build a bunch of things and you'll learn a bunch of things.
 
-###Gautams stuff
+### Gautams stuff
 [put some things here!]
 
-###Other stuff
+### Other stuff
 
 - I heard good things about fast.ai although I haven't gone through it myself. Same for Andrew Ng's new Deep Learning course.
 

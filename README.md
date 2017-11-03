@@ -17,7 +17,7 @@ Notes and thoughts on learning machine learning. This guide is dedicated to the 
 
 - I heard good things about fast.ai although I haven't gone through it myself. Same for Andrew Ng's new Deep Learning course.
 
-- [neural nets at deep learning](http://neuralnetworksanddeeplearning.com/index.html) is worth reading through. Everything's in easy to understand language.
+- [Neural nets and deep learning](http://neuralnetworksanddeeplearning.com/index.html) is worth reading through. Everything's in easy to understand language.
 
 - It doesn't really matter if you use Tensorflow or Pytorch or anything, just pick one to start with. Also, implementing backprop by hand is a good exercise you can figure out what's happening. Don't actually use it for anything big though
 

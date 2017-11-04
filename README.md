@@ -25,6 +25,8 @@ Notes and thoughts on learning machine learning. This guide is dedicated to the 
 
 - Andrew Ng's new Deep Learning course. Haven't gone through it, but looks good.
 
+- [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)'s YouTube playlist does a good job of animating and explaining the math behind many of the major concepts in deep learning.
+
 - It doesn't really matter if you use Tensorflow or Pytorch or anything, just pick one to start with. Also, implementing backprop by hand is a good exercise you can figure out what's happening. Don't actually use it for anything big though. 
 
 - When working on projects don't be afraid to steal parts of code from other git repos / stackoverflow. Our philosophy: do whatever it takes to make your project work. If you work on interesting enough things, the experience will come naturally.
